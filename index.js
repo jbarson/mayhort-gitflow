@@ -1,1 +1,1 @@
-console.log('hello! JAKE WAS HERE MUAHAHAHA')
+console.log('hello! Macs is just scam spelt backwards');
